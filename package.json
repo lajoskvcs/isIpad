@@ -1,0 +1,27 @@
+{
+  "name": "isipad",
+  "version": "1.0.0",
+  "description": "Small utility library for testing new iPadOS safari agent",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lajoskvcs/isIpad.git"
+  },
+  "keywords": [
+    "ipad",
+    "ipados",
+    "safari",
+    "useragent",
+    "agetn"
+  ],
+  "author": {
+		"email": "lajoskvcs@icloud.com",
+		"name": "Lajos Kovács",
+		"url": "https://lajoskvcs.hu"
+	},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lajoskvcs/isIpad/issues"
+  },
+  "homepage": "https://github.com/lajoskvcs/isIpad#readme"
+}
